@@ -1,10 +1,6 @@
 ---
 title: "My Portfolio - Alice Bourne"
-description: " I have always enjoyed science. I have a range of personal interests from astronomy, to chemistry, to human biology.
-
-From 2020-2024, I studied for an Integrated Masters in Biology (MBiolSci) at The University of Sheffield. My main academic focuses at this time were in palaeontology and botany. During this degree I discovered that I had an aptitude for computer programming, becoming proficient in the programming language R for biological analysis. Upon reflection after graduation, I decided I would like to use and build upon these data science skills in my future career, transitioning to apply them in the medical biology field. Thus, in 2025-2026 I will be completing the Applied Bioinformatics MSc at King's College London.
-
-In the future I hope to work in a research environment where I can use both my scientific and computational skills."
+description: "I'm a passionate scientist with a background in palaeontology, botany, and bioinformatics. I earned an MBiolSci in Biology from the University of Sheffield (2020–2024), where I developed a strong aptitude for data science and R programming. Now, I'm transitioning into medical bioinformatics, pursuing an MSc in Applied Bioinformatics at King's College London (2025–2026). My goal is to work in research, combining my scientific and computational skills to drive discoveries"
 theme: jekyll-theme-minimal
 show_downloads: [true]
 logo: "/logo.jpg"
