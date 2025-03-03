@@ -81,7 +81,6 @@ colnames(perimeter_df) <- c("long", "lat")
 ### **Plot Sample Points with Perimeter**
 
 ```{r, echo=FALSE}
-# Generate plot
 ggplot() +
   geom_path(data = perimeter_df, aes(x = long, y = lat), color = "black", size = 1) +  
   geom_point(data = samples, aes(x = long, y = lat, color = Cen_Copy), size = 3) +  
@@ -92,7 +91,7 @@ ggplot() +
 ```
 ### Plot
 
-![Sample Points Presence/Absence](./1_plotted_map.png)
+![Sample Points Presence/Absence](1_plotted_map.png)
 
 ## Global Moran's I
 
