@@ -1,11 +1,8 @@
 ---
 layout: default
-title: "About me"
+title: "My scientific background"
 ---
-
-Hello! My name is Alice Bourne. 
-
-## Scientific background
+## My scientific background
 
 I have always enjoyed science. I have a range of personal interests from astronomy, to chemistry, to human biology.
 
