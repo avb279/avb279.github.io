@@ -30,7 +30,6 @@ confined populations.
 
 ## Mapping PEPC gene presence/absence
 
-```
 ## Install and Load Packages
 
 ```{r setup, message=FALSE, warning=FALSE}
@@ -45,8 +44,6 @@ library(sf)
 library(readr)
 ```
 
----
-
 ### **Load Data**
 
 ```{r}
@@ -58,8 +55,6 @@ samples_file <- "cenpresenceabsence.csv"
 perimeter <- read_csv(perimeter_file)
 samples <- read_csv(samples_file)
 ```
-
----
 
 ### **Convert Data to Spatial Format**
 
@@ -74,8 +69,6 @@ samples_sf <- st_as_sf(samples, coords = c("long", "lat"), crs = 4326)
 perimeter_df <- as.data.frame(st_coordinates(perimeter_sf))
 colnames(perimeter_df) <- c("long", "lat")
 ```
-
----
 
 ### **Plot Sample Points with Perimeter**
 
@@ -94,7 +87,6 @@ ggplot() +
 ![Sample Points Presence/Absence](1_plotted_map.png)
 
 ## Global Moran's I
-
 
 ### Read the data from the CSV file
 ```
