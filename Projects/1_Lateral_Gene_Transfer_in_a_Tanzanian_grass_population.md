@@ -32,7 +32,7 @@ confined populations.
 ## Mapping PEPC gene presence/absence
 
 ```
-## Install and Load Packages
+### Install and Load Packages
 
 ```{r setup, message=FALSE, warning=FALSE}
 # Install required packages (only run once)
@@ -122,22 +122,22 @@ W <- 1 / dist_matrix     # Inverse of the distance matrix
 W[is.infinite(W)] <- 0   # Replace infinite values with 0
 X <- as.numeric(present_data$Cen_Copy == "Present")  # Convert "Present" to 1, "Absent" to 0
 
-# Compute observed Moran's I
+### Compute observed Moran's I
 I.obs <- (n * sum(W * X) - sum(W) * sum(X)) / (sum(W^2) - (sum(W)^2 / n))
 
-# Compute expected Moran's I under the null hypothesis
+### Compute expected Moran's I under the null hypothesis
 E.I <- -1 / (n - 1)
 
-# Compute variance of Moran's I
+### Compute variance of Moran's I
 var.I <- (n * (n - 1) * sum((W %*% X)^2) - 2 * sum(W * X)^2 + 2 * sum(W^2 * X^2)) / ((n - 1)^2 * sum(W)^2)
 
-# Compute standardized Moran's I
+### Compute standardized Moran's I
 I.std <- (I.obs - E.I) / sqrt(var.I)
 
-# Compute p-value
+### Compute p-value
 p_value <- 2 * (1 - pnorm(abs(I.std)))
 
-# Print the test result
+### Print the test result
 cat("Moran's I:", I.obs, "\n")
 cat("Expected Moran's I under the null hypothesis:", E.I, "\n")
 cat("Standardized Moran's I:", I.std, "\n")
