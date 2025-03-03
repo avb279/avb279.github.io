@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Alice Bourne - My Portfolio"
+title: "About me"
 ---
 
-Hello! My name is Alice Bourne. Welcome to my Github Portfolio.
+Hello! My name is Alice Bourne. 
 
 ## Scientific background
 
@@ -14,7 +14,3 @@ From 2020-2024, I studied for an Integrated Masters in Biology (MBiolSci) at The
 In the future I hope to work in a research environment where I can use both my scientific and computational skills.
 
 To find out more about my background please look at my LinkedIn: www.linkedin.com/in/alice-bourne-b704b3223
-
-## Purpose of this portfolio
-
-This portfolio displays all relevant projects I have completed so far, from The University of Sheffield, KCL, as well as others completed during my spare time.
