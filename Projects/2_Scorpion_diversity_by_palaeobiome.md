@@ -1,6 +1,6 @@
 # Scorpion distribution and diversity by palaeobiome
 
-This work is taken from my Integrated Masters dissertation. If you would like read the full document and explore any references mentioned below, it can be viewed here: [View Dissertation]()
+This work is taken from my Integrated Masters dissertation. If you would like read the full document and explore any references mentioned below, it can be viewed here: [View Dissertation](https://github.com/avb279/avb279.github.io/blob/main/Projects/2_L4Dissertation.pdf)
 
 ## 2.3 Scorpion distribution and diversity by palaeobiome
 While the fossil record of most extant arthropods is skewed towards the Cenozoic (Dunlop et al.,
