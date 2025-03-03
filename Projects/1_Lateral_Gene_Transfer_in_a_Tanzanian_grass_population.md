@@ -5,6 +5,7 @@ date: 2024-03-03
 description: "A study on lateral gene transfer in Tanzanian grasses."
 permalink: /Projects/1_Lateral_Gene_Transfer/
 ---
+
 # Lateral Gene Transfer in a Tanzanian Grass Population
 
 This internship was completed in collaboration with Dr Luke Dunning through the Sheffield Undergraduate Research Experience Scheme.
@@ -146,3 +147,5 @@ cat("p-value:", p_value, "\n")
 
 ## Conclusion
 - LGT can create intraspecific variation on a smaller geographic scale.
+
+[Next: Scorpion diversity by palaeobiome →](2_Scorpion_diversity_by_palaeobiome.md)
