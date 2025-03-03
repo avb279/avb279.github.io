@@ -1,6 +1,8 @@
-title: "My Portfolio"
+title: "My Portfolio - Alice Bourne"
 description: "A showcase of my projects"
 theme: jekyll-theme-minimal
+show_downloads: [true]
+logo: "/logo.jpg"
 plugins:
   - jekyll-feed
 
