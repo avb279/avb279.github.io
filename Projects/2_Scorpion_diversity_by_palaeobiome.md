@@ -235,3 +235,5 @@ al., (2023) suggests a high level of dependence of d on sample size, impacting i
 reflect meaningful diversity differences. Margalef’s (1973) original formula has not been adjusted
 to overcome this issue. Addressing this concern is crucial for future studies to accurately
 calculate diversity changes.
+
+[← Previous: Lateral Gene Transfer in a Tanzanian Grass Population](1_Lateral_Gene_Transfer_in_a_Tanzanian_grass_population.md) | [Next: Chapter X →](fileX.md)
