@@ -1,3 +1,10 @@
+---
+layout: project
+title: "Scorpion distribution and diversity by palaeobiome"
+date: 2024-03-03
+description: "A study on fossil scorpions"
+permalink: /Projects/2_Scorpion_diversity_palaeobiome/
+---
 # Scorpion distribution and diversity by palaeobiome
 
 This work is taken from my Integrated Masters dissertation. If you would like read the full document and explore any references mentioned below, it can be viewed here: [View Dissertation](https://github.com/avb279/avb279.github.io/blob/main/Projects/2_L4Dissertation.pdf)
