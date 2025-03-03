@@ -1,6 +1,6 @@
 title: "My Portfolio"
 description: "A showcase of my projects"
-theme: tactile
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
