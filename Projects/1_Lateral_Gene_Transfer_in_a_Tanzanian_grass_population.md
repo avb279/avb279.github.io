@@ -5,7 +5,6 @@ date: 2024-03-03
 description: "A study on lateral gene transfer in Tanzanian grasses."
 permalink: /Projects/1_Lateral_Gene_Transfer/
 ---
-
 # Lateral Gene Transfer in a Tanzanian Grass Population
 
 This internship was completed in collaboration with Dr Luke Dunning through the Sheffield Undergraduate Research Experience Scheme.
@@ -32,7 +31,7 @@ confined populations.
 ## Mapping PEPC gene presence/absence
 
 ```
-### Install and Load Packages
+## Install and Load Packages
 
 ```{r setup, message=FALSE, warning=FALSE}
 # Install required packages (only run once)
@@ -76,10 +75,12 @@ perimeter_df <- as.data.frame(st_coordinates(perimeter_sf))
 colnames(perimeter_df) <- c("long", "lat")
 ```
 
+---
 
 ### **Plot Sample Points with Perimeter**
 
 ```{r, echo=FALSE}
+# Generate plot
 ggplot() +
   geom_path(data = perimeter_df, aes(x = long, y = lat), color = "black", size = 1) +  
   geom_point(data = samples, aes(x = long, y = lat, color = Cen_Copy), size = 3) +  
@@ -120,22 +121,22 @@ W <- 1 / dist_matrix     # Inverse of the distance matrix
 W[is.infinite(W)] <- 0   # Replace infinite values with 0
 X <- as.numeric(present_data$Cen_Copy == "Present")  # Convert "Present" to 1, "Absent" to 0
 
-### Compute observed Moran's I
+# Compute observed Moran's I
 I.obs <- (n * sum(W * X) - sum(W) * sum(X)) / (sum(W^2) - (sum(W)^2 / n))
 
-### Compute expected Moran's I under the null hypothesis
+# Compute expected Moran's I under the null hypothesis
 E.I <- -1 / (n - 1)
 
-### Compute variance of Moran's I
+# Compute variance of Moran's I
 var.I <- (n * (n - 1) * sum((W %*% X)^2) - 2 * sum(W * X)^2 + 2 * sum(W^2 * X^2)) / ((n - 1)^2 * sum(W)^2)
 
-### Compute standardized Moran's I
+# Compute standardized Moran's I
 I.std <- (I.obs - E.I) / sqrt(var.I)
 
-### Compute p-value
+# Compute p-value
 p_value <- 2 * (1 - pnorm(abs(I.std)))
 
-### Print the test result
+# Print the test result
 cat("Moran's I:", I.obs, "\n")
 cat("Expected Moran's I under the null hypothesis:", E.I, "\n")
 cat("Standardized Moran's I:", I.std, "\n")
@@ -146,3 +147,10 @@ cat("p-value:", p_value, "\n")
 ## Results
 - Cenchrinae LGT had a random distribution within the population (Standardised Global Moran’s I = 0.180, p = 0.857).
 - Other biogeographic variables were unrelated to Cenchrinae LGT presence, supporting our analysis of random distribution.
+
+## Discussion
+- The finding of random distribution contradicts the expectation of uniform LGT presence/absence in confined populations due to an original past LGT event.
+- This suggests that there was either a recent migration of gene-carrying individuals or there is a limited selective advantage of the Cenchrinae-derived PEPC gene in this habitat.
+
+## Conclusion
+- LGT can create intraspecific variation on a smaller geographic scale.
