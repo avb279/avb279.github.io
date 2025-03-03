@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Welcome to My Portfolio"
+title: "Index for My Portfolio"
 ---
 # My Projects
 Here are some of the projects I've worked on:
