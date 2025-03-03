@@ -92,7 +92,7 @@ ggplot() +
 ```
 ### Plot
 
-![Sample Points Presence/Absence](1_plotted_map.png)
+![Sample Points Presence/Absence](./1_plotted_map.png)
 
 ## Global Moran's I
 
