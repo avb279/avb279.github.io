@@ -1,10 +1,13 @@
 ---
 title: "My Portfolio - Alice Bourne"
-description: "I have a background in palaeontology, botany, and data science, earning an MBiolSci in Biology from Sheffield (2020–2024). I'm pursuing an Applied Bioinformatics MSc at KCL (2025–2026) to apply my computational skills in medical research"
-theme: jekyll-theme-minimal
+description: > 
+  Enthusiastic individual interested in all things scientific.  
+  MBiolSci Biology graduate from The University of Sheffield (2020-2024) with an aptitude for data science.  
+  MSc Applied Bioinformatics student at KCL (2025-2026), applying computational skills in medical biology to prepare for a future research career.  
 logo: "/logo.jpg"
 email: "alicebourne279@gmail.com"
 linkedin: "https://www.linkedin.com/in/alice-bourne-b704b3223"
 plugins:
   - jekyll-feed
 ---
+
