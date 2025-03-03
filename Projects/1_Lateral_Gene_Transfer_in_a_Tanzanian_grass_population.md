@@ -30,9 +30,9 @@ confined populations.
 
 ## Mapping PEPC gene presence/absence
 
-## Install and Load Packages
+### Install packages and load libraries
 
-```{r setup, message=FALSE, warning=FALSE}
+```
 # Install required packages (only run once)
 if (!requireNamespace("ggplot2", quietly = TRUE)) install.packages("ggplot2")
 if (!requireNamespace("sf", quietly = TRUE)) install.packages("sf")
@@ -46,7 +46,7 @@ library(readr)
 
 ### **Load Data**
 
-```{r}
+```
 # Define file paths (ensure correct paths when running in RStudio)
 perimeter_file <- "mapperimeter.csv"
 samples_file <- "cenpresenceabsence.csv"
@@ -58,7 +58,7 @@ samples <- read_csv(samples_file)
 
 ### **Convert Data to Spatial Format**
 
-```{r}
+```
 # Convert perimeter to sf spatial object
 perimeter_sf <- st_as_sf(perimeter, coords = c("long", "lat"), crs = 4326)
 
@@ -72,7 +72,7 @@ colnames(perimeter_df) <- c("long", "lat")
 
 ### **Plot Sample Points with Perimeter**
 
-```{r, echo=FALSE}
+```
 # Generate plot
 ggplot() +
   geom_path(data = perimeter_df, aes(x = long, y = lat), color = "black", size = 1) +  
