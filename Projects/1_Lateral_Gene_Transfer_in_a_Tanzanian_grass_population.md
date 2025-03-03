@@ -76,7 +76,6 @@ perimeter_df <- as.data.frame(st_coordinates(perimeter_sf))
 colnames(perimeter_df) <- c("long", "lat")
 ```
 
----
 
 ### **Plot Sample Points with Perimeter**
 
