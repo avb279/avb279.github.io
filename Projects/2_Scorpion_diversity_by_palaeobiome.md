@@ -1,6 +1,6 @@
 # Scorpion distribution and diversity by palaeobiome
 
-This work is taken from my Integrated Masters dissertation. If you would like read the full document and explore any references mentioned below, it can be viewed here: [View Dissertation](https://github.com/avb279/AliceBourne---Portfolio/blob/main/University_of_Sheffield%20/Scorpion_Dissertation/L4Dissertation.pdf)
+This work is taken from my Integrated Masters dissertation. If you would like read the full document and explore any references mentioned below, it can be viewed here: [View Dissertation]()
 
 ## 2.3 Scorpion distribution and diversity by palaeobiome
 While the fossil record of most extant arthropods is skewed towards the Cenozoic (Dunlop et al.,
@@ -43,7 +43,7 @@ Output data included:
 I then carried out a PRISMA screening process to ensure that records analysed were
 appropriate for my specific hypothesis (figure 1):
 
-![PRISMA Guidelines](PRISMA_guidelines.png)
+![PRISMA Guidelines](2_PRISMA_guidelines.png)
 
 Figure 1: PRISMA flow chart detailing scorpion fossil specimen search strategy for quantitative
 analysis.
@@ -132,7 +132,7 @@ aes(x = paleolng, y = paleolat),
 color = "red", size = 3
 ) 
 ```
-![All Silurian Scorpion Fossils](allsilurian.png)
+![All Silurian Scorpion Fossils](2_allsilurian.png)
 
 #### Plot fossil scorpion points (high quality records)
 ```
@@ -143,19 +143,19 @@ aes(x = paleolng, y = paleolat),
 color = "blue", size = 3
 ) 
 ```
-![High Quality Silurian Scorpion Fossils](highqualitysilurian.png)
+![High Quality Silurian Scorpion Fossils](2_highqualitysilurian.png)
 
 I then assigned all scorpion fossils (red) to a palaeobiome (Arid, Cool temperate, Warm temperate, or Tropical)
 using the Scotese reference maps (fig.2).
 
-![QA1](Quantitative_analysis_figures1.png)
-![QA2](Quantitative_analysis_figures2.png)
-![QA3](Quantitative_analysis_figures3.png)
-![QA4](Quantitative_analysis_figures4.png)
-![QA5](Quantitative_analysis_figures5.png)
-![QA6](Quantitative_analysis_figures6.png)
-![QA7](Quantitative_analysis_figures7.png)
-![QA8](Quantitative_analysis_figures8.png)
+![QA1](2_Quantitative_analysis_figures1.png)
+![QA2](2_Quantitative_analysis_figures2.png)
+![QA3](2_Quantitative_analysis_figures3.png)
+![QA4](2_Quantitative_analysis_figures4.png)
+![QA5](2_Quantitative_analysis_figures5.png)
+![QA6](2_Quantitative_analysis_figures6.png)
+![QA7](2_Quantitative_analysis_figures7.png)
+![QA8](2_Quantitative_analysis_figures8.png)
 
 Figure 2: Scorpion fossil distribution through time. Reference palaeobiome maps (left) from Scotese (2000;2021). All fossil occurrences are mapped
 in red (middle), and only high-quality records are in blue (right). Continental plates were mapped at the midpoint of each period using GPlates
@@ -173,7 +173,7 @@ was calculated for each group (Table 1; Table 2, 3.s.f).
 
 ## 2.4 Results
 Tables 1 and 2 summarise the results of the analysis:
-![margaleftables](margaleftables.png)
+![margaleftables](2_margaleftables.png)
 
 ## 2.5 Discussion
 My hypothesis that scorpion diversity would be higher in arid biomes in both the Palaeozoic and
