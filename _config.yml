@@ -1,11 +1,10 @@
 ---
 title: "My Portfolio - Alice Bourne"
 description: " Portfolio of both personal and university projects | 
-  MBiolSci Biology graduate from The University of Sheffield (2020-2024) with an aptitude for data science |  
-  MSc Applied Bioinformatics student at KCL (2025-2026), preparing for a computational research career " 
+  MBiolSci Biology graduate, The University of Sheffield (2020-2024), with an aptitude for data science |  
+  MSc Applied Bioinformatics student, KCL (2025-2026), preparing for a computational research career " 
 theme: jekyll-theme-minimal
 logo: "/logo.jpg"
-show_downloads: [true]
 plugins:
   - jekyll-feed
 ---
