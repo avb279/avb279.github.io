@@ -1,12 +1,10 @@
 ---
 title: "My Portfolio - Alice Bourne"
-description: "Enthusiastic individual interested in all things scientific.  
+description: " Portfolio showing both personal and university projects. 
   MBiolSci Biology graduate from The University of Sheffield (2020-2024) with an aptitude for data science.  
   MSc Applied Bioinformatics student at KCL (2025-2026), applying computational skills in medical biology to prepare for a future research career. " 
 theme: jekyll-theme-minimal
 logo: "/logo.jpg"
-email: "alicebourne279@gmail.com"
-linkedin: "https://www.linkedin.com/in/alice-bourne-b704b3223"
 plugins:
   - jekyll-feed
 ---
