@@ -50,7 +50,7 @@ Output data included:
 I then carried out a PRISMA screening process to ensure that records analysed were
 appropriate for my specific hypothesis (figure 1):
 
-![PRISMA Guidelines](https://github.com/avb279/avb279.github.io/blob/main/_projects/2_PRISMA_guidelines.png)
+![PRISMA Guidelines](https://raw.githubusercontent.com/avb279/avb279.github.io/main/_projects/2_PRISMA_guidelines.png)
 
 Figure 1: PRISMA flow chart detailing scorpion fossil specimen search strategy for quantitative
 analysis.
@@ -139,7 +139,7 @@ aes(x = paleolng, y = paleolat),
 color = "red", size = 3
 ) 
 ```
-![All Silurian Scorpion Fossils](https://github.com/avb279/avb279.github.io/blob/main/_projects/2_allsilurian.png)
+![All Silurian Scorpion Fossils](https://raw.githubusercontent.com/avb279/avb279.github.io/main/_projects/2_allsilurian.png)
 
 #### Plot fossil scorpion points (high quality records)
 ```
@@ -150,19 +150,19 @@ aes(x = paleolng, y = paleolat),
 color = "blue", size = 3
 ) 
 ```
-![High Quality Silurian Scorpion Fossils](https://github.com/avb279/avb279.github.io/blob/main/_projects/2_highqualitysilurian.png)
+![High Quality Silurian Scorpion Fossils](https://raw.githubusercontent.com/avb279/avb279.github.io/main/_projects/2_highqualitysilurian.png)
 
 I then assigned all scorpion fossils (red) to a palaeobiome (Arid, Cool temperate, Warm temperate, or Tropical)
 using the Scotese reference maps (fig.2).
 
-![QA1](https://github.com/avb279/avb279.github.io/blob/main/_projects/2_Quantitative_analysis_figures1.png)
-![QA2](https://github.com/avb279/avb279.github.io/blob/main/_projects/2_Quantitative_analysis_figures2.png)
-![QA3](https://github.com/avb279/avb279.github.io/blob/main/_projects/2_Quantitative_analysis_figures3.png)
-![QA4](https://github.com/avb279/avb279.github.io/blob/main/_projects/2_Quantitative_analysis_figures4.png)
-![QA5](https://github.com/avb279/avb279.github.io/blob/main/_projects/2_Quantitative_analysis_figures5.png)
-![QA6](https://github.com/avb279/avb279.github.io/blob/main/_projects/2_Quantitative_analysis_figures6.png)
-![QA7](https://github.com/avb279/avb279.github.io/blob/main/_projects/2_Quantitative_analysis_figures7.png)
-![QA8](https://github.com/avb279/avb279.github.io/blob/main/_projects/2_Quantitative_analysis_figures8.png)
+![QA1](https://raw.githubusercontent.com/avb279/avb279.github.io/main/_projects/2_Quantitative_analysis_figures1.png)
+![QA2](https://raw.githubusercontent.com/avb279/avb279.github.io/main/_projects/2_Quantitative_analysis_figures2.png)
+![QA3](https://raw.githubusercontent.com/avb279/avb279.github.io/main/_projects/2_Quantitative_analysis_figures3.png)
+![QA4](https://raw.githubusercontent.com/avb279/avb279.github.io/main/_projects/2_Quantitative_analysis_figures4.png)
+![QA5](https://raw.githubusercontent.com/avb279/avb279.github.io/main/_projects/2_Quantitative_analysis_figures5.png)
+![QA6](https://raw.githubusercontent.com/avb279/avb279.github.io/main/_projects/2_Quantitative_analysis_figures6.png)
+![QA7](https://raw.githubusercontent.com/avb279/avb279.github.io/main/_projects/2_Quantitative_analysis_figures7.png)
+![QA8](https://raw.githubusercontent.com/avb279/avb279.github.io/main/_projects/2_Quantitative_analysis_figures8.png)
 
 Figure 2: Scorpion fossil distribution through time. Reference palaeobiome maps (left) from Scotese (2000;2021). All fossil occurrences are mapped
 in red (middle), and only high-quality records are in blue (right). Continental plates were mapped at the midpoint of each period using GPlates
@@ -180,7 +180,7 @@ was calculated for each group (Table 1; Table 2, 3.s.f).
 
 ## 2.4 Results
 Tables 1 and 2 summarise the results of the analysis:
-![margaleftables](https://github.com/avb279/avb279.github.io/blob/main/_projects/2_margaleftables.png)
+![margaleftables](https://raw.githubusercontent.com/avb279/avb279.github.io/main/_projects/2_margaleftables.png)
 
 ## 2.5 Discussion
 My hypothesis that scorpion diversity would be higher in arid biomes in both the Palaeozoic and
