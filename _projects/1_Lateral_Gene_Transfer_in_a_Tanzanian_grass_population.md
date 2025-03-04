@@ -135,7 +135,7 @@ cat("Expected Moran's I under the null hypothesis:", E.I, "\n")
 cat("Standardized Moran's I:", I.std, "\n")
 cat("p-value:", p_value, "\n")
 ```
-![Printed test result](1_Global_Morans_results.png)
+![Printed test result](https://github.com/avb279/avb279.github.io/blob/main/_projects/1_Global_Morans_results.png)
 
 ## Results
 - Cenchrinae LGT had a random distribution within the population (Standardised Global Moran’s I = 0.180, p = 0.857).
