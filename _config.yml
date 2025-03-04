@@ -6,6 +6,7 @@ description: " Portfolio of both personal and university projects |
 theme: jekyll-theme-minimal
 logo: "/logo.jpg"
 permalink: pretty
+markdown: kramdown
 collections:
   projects:
     output: true
