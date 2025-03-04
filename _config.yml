@@ -5,6 +5,7 @@ description: " Portfolio of both personal and university projects |
   MSc Applied Bioinformatics student, KCL (2025-2026), preparing for a computational research career " 
 theme: jekyll-theme-minimal
 logo: "/logo.jpg"
+markdown: kramdown
 permalink: pretty
 plugins:
   - jekyll-feed
