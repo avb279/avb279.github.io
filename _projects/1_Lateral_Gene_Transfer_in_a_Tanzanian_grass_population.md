@@ -148,4 +148,4 @@ cat("p-value:", p_value, "\n")
 ## Conclusion
 - LGT can create intraspecific variation on a smaller geographic scale.
 
-[Next: Scorpion diversity by palaeobiome →](2_Scorpion_diversity_by_palaeobiome.md)
+[Next: Scorpion diversity by palaeobiome →](https://github.com/avb279/avb279.github.io/blob/main/_projects/2_Scorpion_diversity_by_palaeobiome.md)
