@@ -1,9 +1,9 @@
 ---
-layout: project
+layout: default
 title: "Lateral Gene Transfer in a Tanzanian Grass Population"
 date: 2024-03-03
 description: "A study on lateral gene transfer in Tanzanian grasses."
-permalink: /Projects/1_Lateral_Gene_Transfer/
+permalink: /projects/1_Lateral_Gene_Transfer/
 ---
 
 # Lateral Gene Transfer in a Tanzanian Grass Population
