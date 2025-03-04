@@ -1,9 +1,9 @@
 ---
-layout: project
+layout: default
 title: "Scorpion distribution and diversity by palaeobiome"
 date: 2024-03-03
 description: "A study on fossil scorpions"
-permalink: /Projects/2_Scorpion_diversity_palaeobiome/
+permalink: /projects/2_Scorpion_diversity_palaeobiome/
 ---
 # Scorpion distribution and diversity by palaeobiome
 
