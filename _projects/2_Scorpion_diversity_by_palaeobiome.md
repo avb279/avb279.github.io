@@ -236,4 +236,4 @@ reflect meaningful diversity differences. Margalef’s (1973) original formula h
 to overcome this issue. Addressing this concern is crucial for future studies to accurately
 calculate diversity changes.
 
-[← Previous: Lateral Gene Transfer in a Tanzanian Grass Population](https://github.com/avb279/avb279.github.io/blob/main/_projects/1_Lateral_Gene_Transfer_in_a_Tanzanian_grass_population.md) | [Next: Chapter X →]
+[← Previous: Lateral Gene Transfer in a Tanzanian Grass Population](https://avb279.github.io/projects/1_Lateral_Gene_Transfer_in_a_Tanzanian_grass_population) | [Next: Chapter X →]
