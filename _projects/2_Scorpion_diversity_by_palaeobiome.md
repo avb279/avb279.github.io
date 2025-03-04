@@ -7,7 +7,7 @@ permalink: /projects/2_Scorpion_diversity_palaeobiome/
 ---
 # Scorpion distribution and diversity by palaeobiome
 
-This work is taken from my Integrated Masters dissertation, The University of Sheffield. If you would like read the full document and explore any references mentioned below, it can be viewed here: [View Dissertation](https://github.com/avb279/avb279.github.io/blob/main/_projects/2_L4Dissertation.pdf)
+This work is taken from my Integrated Masters dissertation, The University of Sheffield. If you would like read the full document and explore any references mentioned below, it can be viewed here: [View Dissertation](https://raw.githubusercontent.com/avb279/avb279.github.io/main/_projects/2_L4Dissertation.pdf)
 
 ## 2.3 Scorpion distribution and diversity by palaeobiome
 While the fossil record of most extant arthropods is skewed towards the Cenozoic (Dunlop et al.,
