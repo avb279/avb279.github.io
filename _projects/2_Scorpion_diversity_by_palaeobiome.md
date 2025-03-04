@@ -7,7 +7,7 @@ permalink: /projects/2_Scorpion_diversity_palaeobiome/
 ---
 # Scorpion distribution and diversity by palaeobiome
 
-This work is taken from my Integrated Masters dissertation, The University of Sheffield. If you would like read the full document and explore any references mentioned below, it can be viewed here: [View Dissertation](https://github.com/avb279/avb279.github.io/blob/main/Projects/2_L4Dissertation.pdf)
+This work is taken from my Integrated Masters dissertation, The University of Sheffield. If you would like read the full document and explore any references mentioned below, it can be viewed here: [View Dissertation](https://github.com/avb279/avb279.github.io/blob/main/_projects/2_L4Dissertation.pdf)
 
 ## 2.3 Scorpion distribution and diversity by palaeobiome
 While the fossil record of most extant arthropods is skewed towards the Cenozoic (Dunlop et al.,
@@ -50,7 +50,7 @@ Output data included:
 I then carried out a PRISMA screening process to ensure that records analysed were
 appropriate for my specific hypothesis (figure 1):
 
-![PRISMA Guidelines](2_PRISMA_guidelines.png)
+![PRISMA Guidelines](https://github.com/avb279/avb279.github.io/blob/main/_projects/2_PRISMA_guidelines.png)
 
 Figure 1: PRISMA flow chart detailing scorpion fossil specimen search strategy for quantitative
 analysis.
@@ -139,7 +139,7 @@ aes(x = paleolng, y = paleolat),
 color = "red", size = 3
 ) 
 ```
-![All Silurian Scorpion Fossils](2_allsilurian.png)
+![All Silurian Scorpion Fossils](https://github.com/avb279/avb279.github.io/blob/main/_projects/2_allsilurian.png)
 
 #### Plot fossil scorpion points (high quality records)
 ```
@@ -150,19 +150,19 @@ aes(x = paleolng, y = paleolat),
 color = "blue", size = 3
 ) 
 ```
-![High Quality Silurian Scorpion Fossils](2_highqualitysilurian.png)
+![High Quality Silurian Scorpion Fossils](https://github.com/avb279/avb279.github.io/blob/main/_projects/2_highqualitysilurian.png)
 
 I then assigned all scorpion fossils (red) to a palaeobiome (Arid, Cool temperate, Warm temperate, or Tropical)
 using the Scotese reference maps (fig.2).
 
-![QA1](2_Quantitative_analysis_figures1.png)
-![QA2](2_Quantitative_analysis_figures2.png)
-![QA3](2_Quantitative_analysis_figures3.png)
-![QA4](2_Quantitative_analysis_figures4.png)
-![QA5](2_Quantitative_analysis_figures5.png)
-![QA6](2_Quantitative_analysis_figures6.png)
-![QA7](2_Quantitative_analysis_figures7.png)
-![QA8](2_Quantitative_analysis_figures8.png)
+![QA1](https://github.com/avb279/avb279.github.io/blob/main/_projects/2_Quantitative_analysis_figures1.png)
+![QA2](https://github.com/avb279/avb279.github.io/blob/main/_projects/2_Quantitative_analysis_figures2.png)
+![QA3](https://github.com/avb279/avb279.github.io/blob/main/_projects/2_Quantitative_analysis_figures3.png)
+![QA4](https://github.com/avb279/avb279.github.io/blob/main/_projects/2_Quantitative_analysis_figures4.png)
+![QA5](https://github.com/avb279/avb279.github.io/blob/main/_projects/2_Quantitative_analysis_figures5.png)
+![QA6](https://github.com/avb279/avb279.github.io/blob/main/_projects/2_Quantitative_analysis_figures6.png)
+![QA7](https://github.com/avb279/avb279.github.io/blob/main/_projects/2_Quantitative_analysis_figures7.png)
+![QA8](https://github.com/avb279/avb279.github.io/blob/main/_projects/2_Quantitative_analysis_figures8.png)
 
 Figure 2: Scorpion fossil distribution through time. Reference palaeobiome maps (left) from Scotese (2000;2021). All fossil occurrences are mapped
 in red (middle), and only high-quality records are in blue (right). Continental plates were mapped at the midpoint of each period using GPlates
@@ -180,7 +180,7 @@ was calculated for each group (Table 1; Table 2, 3.s.f).
 
 ## 2.4 Results
 Tables 1 and 2 summarise the results of the analysis:
-![margaleftables](2_margaleftables.png)
+![margaleftables](https://github.com/avb279/avb279.github.io/blob/main/_projects/2_margaleftables.png)
 
 ## 2.5 Discussion
 My hypothesis that scorpion diversity would be higher in arid biomes in both the Palaeozoic and
@@ -236,4 +236,4 @@ reflect meaningful diversity differences. Margalef’s (1973) original formula h
 to overcome this issue. Addressing this concern is crucial for future studies to accurately
 calculate diversity changes.
 
-[← Previous: Lateral Gene Transfer in a Tanzanian Grass Population](1_Lateral_Gene_Transfer_in_a_Tanzanian_grass_population.md) | [Next: Chapter X →]
+[← Previous: Lateral Gene Transfer in a Tanzanian Grass Population](https://github.com/avb279/avb279.github.io/blob/main/_projects/1_Lateral_Gene_Transfer_in_a_Tanzanian_grass_population.md) | [Next: Chapter X →]
