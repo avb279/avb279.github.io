@@ -60,8 +60,7 @@ I also scored record quality based on robustness and data uncertainty, following
 validation. Medium quality records were present in the literature but lacked micrographs. Low
 quality records were solely found in the Palaeobiology Database and not in the literature.
 
-
-Appendix 1 contains the literature sources used to compile the scorpion fossil dataset.
+To see the full fossil dataset click on this link: https://github.com/avb279/avb279.github.io/blob/main/_projects/2_fossil_dataset.csv
 
 ## 2.3.1.2 Mapping and Palaeobiome allocation
 Using my dataset and R (v.4.3.2), I mapped global scorpion fossil distribution across all
