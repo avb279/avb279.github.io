@@ -29,9 +29,9 @@ confined populations.
 
 ## Data Analysis
 
-This data was used to plot the sampling coordinates and colour code each with cen_copy presence/absence: https://github.com/avb279/avb279.github.io/blob/main/_projects/1_cenpresenceabsence.csv
+This data was used to plot the sampling coordinates and colour code each with cen_copy presence/absence: https://raw.githubusercontent.com/avb279/avb279.github.io/main/_projects/1_cenpresenceabsence.csv
 
-This data was used to plot the map perimeter of our study site: https://github.com/avb279/avb279.github.io/blob/main/_projects/1_mapperimeter.csv
+This data was used to plot the map perimeter of our study site: https://raw.githubusercontent.com/avb279/avb279.github.io/main/_projects/1_mapperimeter.csv
 
 ## Mapping PEPC gene presence/absence
 
